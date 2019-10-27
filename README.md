@@ -19,7 +19,23 @@
 
 [![Screen-Shot-2019-10-26-at-22-35-19.png](https://i.postimg.cc/HWJSN4sL/Screen-Shot-2019-10-26-at-22-35-19.png)](https://postimg.cc/7bkMGzzv)
 
+<p align="center">
+  <a> Gambar phploy 1 </a>
+</p>
+
 [![Screen-Shot-2019-10-26-at-23-37-27.png](https://i.postimg.cc/KYqNq46L/Screen-Shot-2019-10-26-at-23-37-27.png)](https://postimg.cc/SX9CjQNN)
 
+<p align="center">
+  <a> Gambar phploy 2 </a>
+</p>
+
 [![Screen-Shot-2019-10-27-at-02-17-01.png](https://i.postimg.cc/59F3g4nY/Screen-Shot-2019-10-27-at-02-17-01.png)](https://postimg.cc/grm8kW9m)
+
+<p align="center">
+  <a> Gambar phploy 3 </a>
+</p>
+
+##### Keterangan : #####
+
+* Gambar phploy 1 :
 
