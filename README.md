@@ -58,5 +58,12 @@ Untuk dokumentasi lebih lengkap, silahkan cek [PHPLOY](https://github.com/banago
 
 ## HASIL RUNNING SUPfile ##
 
+Supfile/Stack Up merupakan sebuah alat deployement sederhana yang melakukan serangkaian perintah pada beberapa host secara paralel. Berguna untuk membaca Supfile, file konfigurasi YAML, yang mendefinisikan jaringan (kelompok host), perintah dan target.
+
+#### Credits ####
+* [Pressly](https://github.com/pressly).
+
+
+
 
 
