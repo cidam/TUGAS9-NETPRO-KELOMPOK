@@ -68,6 +68,8 @@ Supfile/Stack Up merupakan sebuah alat deployement sederhana yang melakukan sera
 
 * __Tahap 2__ : Untuk penggunaan cukup dengan mengetik command `sup` pada terminal. 
 
+<img width="345" alt="Screen Shot 2019-10-27 at 16 51 39" src="https://user-images.githubusercontent.com/54678313/67636621-2c9ab580-f905-11e9-807e-fe126a33082d.png">
+
 #### LIST COMMAND : ####
 * FULL LIST COMMAND [command](https://github.com/pressly/sup).
 
