@@ -15,7 +15,7 @@
   <a>  Sella Tresnasari  (1301188565)  </a> 
 </p> 
 
-#### HASIL RUNNING NOMOR 1 ####
+#### HASIL RUNNING PHPLOY ####
 
 [![Screen-Shot-2019-10-26-at-22-35-19.png](https://i.postimg.cc/HWJSN4sL/Screen-Shot-2019-10-26-at-22-35-19.png)](https://postimg.cc/7bkMGzzv)
 
