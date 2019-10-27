@@ -43,6 +43,8 @@
 
 ##### Cara kerja & Dokumentasi penggunaan : #####
 
+PHPLOY meruapakn sebuah tools FTP Client untuk deploy aplikasi ke server. Konsep kerja PHPloy ini adalah melakukan perubahan(upload/delete) file-file yang telah ter commit pada git ke server.
+
 * __Gambar phploy 1__: Lakukan clone pada github.com/banago/phploy terlebih dahulu untuk bisa menggunakan phploy. 
 
 * __Gambar phploy 2__ : Setelah melakukan clone, cari file phploy.phar kemudian pindahkan file tersebut ke repository git kita. Rename file tersebut menjadi phploy. Setelah itu lakukan `sudo chmod +x phploy` pada terminal agar phploy bisa di execute. Setelah phploy bisa di execute, jalankan `phploy --init` pada terminal, fungsi ini akan membuat sebuah file __php.ini__ . File ini nantinya yang akan berfungsi sebagai file untuk konfigurasi project.
