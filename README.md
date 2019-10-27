@@ -60,6 +60,10 @@ Untuk dokumentasi lebih lengkap, silahkan cek [PHPLOY](https://github.com/banago
 
 Supfile/Stack Up merupakan sebuah alat deployement sederhana yang melakukan serangkaian perintah pada beberapa host secara paralel. Berguna untuk membaca Supfile, file konfigurasi YAML, yang mendefinisikan jaringan (kelompok host), perintah dan target.
 
+##### Cara kerja & Dokumentasi penggunaan : #####
+
+* __Tahap 1__ : Lakukan instalasi terlebih dahulu dengan cara mendownload pressle/sup dari git menggunakan command `go get -u github.com/pressly/sup/cmd/sup`.
+
 #### Credits ####
 * [Pressly](https://github.com/pressly).
 
