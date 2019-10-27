@@ -51,6 +51,10 @@
 
 * __Gambar phploy 4__ : `phploy -l` befungsi untuk melihat list yang di upload/dihapus sebelum melakukan push.
 
-Untuk dokumentasi lebih lengkap, silahkan cek [GitHub Pages](https://github.com/banago/phploy)
+Untuk dokumentasi lebih lengkap, silahkan cek [PHPLOY](https://github.com/banago/phploy).
+
+#### Credits ####
+* [Baki Goxhaj (https://github.com/banago)
+
 
 
