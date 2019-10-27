@@ -54,7 +54,7 @@
 Untuk dokumentasi lebih lengkap, silahkan cek [PHPLOY](https://github.com/banago/phploy).
 
 #### Credits ####
-* [PHPLOY](https://github.com/banago/phploy)
+* [Baki Goxhaj](https://github.com/banago)
 
 
 
